@@ -1,0 +1,6 @@
+On Linux OS
+
+- Open terminal. 
+- Change current directory to folder containing makefile. 
+- Write make & Press Enter. 
+- Write ./matMultp Or ./matMultp Mat1.txt Mat2.txt Mat3.out & Press Enter.
